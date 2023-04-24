@@ -61,7 +61,10 @@ function BoxSection() {
                   <p className="mb-0 ff_helivitica_normal fw-normal fs_md text-white pt-3 pb-5">
                     {obj.peragraph}
                   </p>
-                  <a className="d-flex align-items-center " href="#">
+                  <a
+                    className="d-flex align-items-center text-uppercase "
+                    href="#"
+                  >
                     <span className="text-white pe-3 link_hover">
                       {obj.link}
                     </span>

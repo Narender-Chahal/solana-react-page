@@ -66,7 +66,7 @@ function GridSection() {
               artists, and developers using Solana.
             </span>
           </h3>
-          <button className=" ff_roboto fw-normal fs_sm button_start_building text-white mt-3">
+          <button className=" ff_roboto text-uppercase  fw-normal fs_sm button_start_building text-white mt-3">
             Start building
           </button>
         </div>

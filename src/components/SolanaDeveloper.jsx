@@ -23,7 +23,7 @@ function SolanaDeveloper() {
                   type="text"
                   placeholder="Email"
                 />
-                <button className="button_sign_up ff_roboto fw-normal fs_sm ">
+                <button className="button_sign_up text-uppercase  ff_roboto fw-normal fs_sm ">
                   Sign up
                 </button>
               </div>
@@ -40,13 +40,13 @@ function SolanaDeveloper() {
                 developers.
               </p>
               <div className="pt-4 text-center ">
-                <button className="ff_roboto fw-normal fs_sm text-white youtub_button">
+                <button className="ff_roboto fw-normal text-uppercase  fs_sm text-white youtub_button">
                   YouTube{" "}
                   <span className="ps-sm-2 ps-1">
                     <img src={youtub_icon} alt="youtub_icon " />
                   </span>
                 </button>
-                <button className="ff_roboto fw-normal fs_sm text-white youtub_button ms-4">
+                <button className="ff_roboto fw-normal text-uppercase  fs_sm text-white youtub_button ms-4">
                   Podcast{" "}
                   <span className="ps-sm-2 ps-1">
                     <img src={podcast_img} alt="podcast_img " />

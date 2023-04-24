@@ -49,7 +49,7 @@ function JoinSection() {
                 <h2 className="mb-0 ff_helivitica_normal fw-normal fs_6xl clr_linear_11">
                   11.5M+
                 </h2>
-                <p className="mb-0 ff_roboto fw-normal fs_md  clr_lightwhite">
+                <p className="mb-0 ff_roboto fw-normal text-uppercase  fs_md  clr_lightwhite">
                   Active accounts
                 </p>
               </div>
@@ -58,7 +58,7 @@ function JoinSection() {
                 <h2 className="mb-0 ff_helivitica_normal fw-normal fs_7xl clr_linear_21 pt-3 pt-sm-0">
                   21.9M{" "}
                 </h2>
-                <p className="mb-0 ff_roboto fw-normal fs_md  clr_lightwhite">
+                <p className="mb-0 ff_roboto fw-normal text-uppercase  fs_md  clr_lightwhite">
                   NFTs minted{" "}
                 </p>
               </div>
@@ -68,7 +68,7 @@ function JoinSection() {
               <h2 className="mb-0 ff_helivitica_normal fw-normal fs_8xl clr_linear_025">
                 $0.00025{" "}
               </h2>
-              <p className="mb-0 ff_roboto fw-normal fs_md  clr_lightwhite">
+              <p className="mb-0 ff_roboto fw-normal text-uppercase  fs_md  clr_lightwhite">
                 Average cost per transaction{" "}
               </p>
             </div>
@@ -79,9 +79,9 @@ function JoinSection() {
             <h2 className="mb-0 ff_helivitica_normal fw-normal  fs_xl text-white ">
               Made for <span className="d-lg-block">mass adoption .</span>
             </h2>
-            <div className="d-flex align-items-center pt-2 justify-content-center pb-4 pb-lg-0">
+            <div className="d-flex align-items-center pt-2 justify-content-center justify-content-lg-start pb-4 pb-lg-0">
               <div className="dots_skyblue"></div>
-              <p className="ff_roboto mb-0 fs_md fw-normal  clr_lightwhite ps-1 ">
+              <p className="ff_roboto mb-0 fs_md text-uppercase  fw-normal  clr_lightwhite ps-1 ">
                 Live data
               </p>
             </div>
@@ -108,7 +108,7 @@ function JoinSection() {
                       3,969
                     </h3>
                   </div>
-                  <p className="mb-0 ff_roboto fw-normal fs_md clr_lightwhite pt-2 mt-1">
+                  <p className="mb-0 ff_roboto fw-normal text-uppercase  fs_md clr_lightwhite pt-2 mt-1">
                     Transactions per second
                   </p>
                 </div>{" "}
@@ -134,7 +134,7 @@ function JoinSection() {
                       163,077,581,394
                     </h3>
                   </div>
-                  <p className="mb-0 ff_roboto fw-normal fs_md clr_lightwhite pt-2 mt-1">
+                  <p className="mb-0 ff_roboto fw-normal text-uppercase  fs_md clr_lightwhite pt-2 mt-1">
                     Total transactions{" "}
                   </p>
                 </div>
@@ -159,7 +159,7 @@ function JoinSection() {
                       1,675{" "}
                     </h3>
                   </div>
-                  <p className="mb-0 ff_roboto fw-normal fs_md clr_lightwhite pt-2 mt-1">
+                  <p className="mb-0 ff_roboto fw-normal text-uppercase  fs_md clr_lightwhite pt-2 mt-1">
                     Validator nodes{" "}
                   </p>
                 </div>
@@ -186,7 +186,7 @@ function JoinSection() {
                       0%{" "}
                     </h3>
                   </div>
-                  <p className="mb-0 ff_roboto fw-normal fs_md clr_lightwhite pt-2 mt-1">
+                  <p className="mb-0 ff_roboto fw-normal text-uppercase  fs_md clr_lightwhite pt-2 mt-1">
                     Net carbon impact{" "}
                   </p>
                 </div>

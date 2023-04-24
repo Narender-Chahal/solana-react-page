@@ -82,7 +82,7 @@ function BuildSection() {
             md={8}
             sm={10}
             xs={10}
-            className="ps-lg-5 pe-lg-5 text-center bg_build1 py-3 py-lg-0"
+            className="ps-lg-5 pe-lg-5 text-center text-lg-start bg_build1 py-3 py-lg-0"
           >
             <img src={anybodies_img} alt="anybodies_img" />
             <p className="mb-0 ff_helivitica_normal fw-normal fs_xxlmd text-white pt-3 pe-3">

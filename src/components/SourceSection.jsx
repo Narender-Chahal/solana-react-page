@@ -18,9 +18,9 @@ function SourceSection() {
               <h4 className="mb-0 ff_helivitica_normal fw-normal fs_xlg text-white">
                 Solana Docs
               </h4>
-              <button className="btn_view text-white ff_roboto fw-normal fs_sm">
+              <button className="btn_view text-white text-uppercase  ff_roboto fw-normal fs_sm">
                 View all{" "}
-                <span className="ps-3">
+                <span className="ps-sm-3 ps-1">
                   <img src={up_arrow} alt="up_arrow " />
                 </span>
               </button>
@@ -36,9 +36,9 @@ function SourceSection() {
               <h4 className="mb-0 ff_helivitica_normal fw-normal fs_xlg text-white">
                 Metaplex Docs{" "}
               </h4>
-              <button className="btn_view text-white ff_roboto fw-normal fs_sm">
+              <button className="btn_view text-white text-uppercase  ff_roboto fw-normal fs_sm">
                 View all{" "}
-                <span className="ps-3">
+                <span className="ps-sm-3 ps-1">
                   <img src={up_arrow} alt="up_arrow " />
                 </span>
               </button>
@@ -60,7 +60,7 @@ function SourceSection() {
               newsletter: https://solana.us17.list-manage.com/s... Proposal -
               Priced Compute Units: ...
             </p>
-            <button className="text-white ff_roboto fw-normal fs_sm latest_btn mt-lg-5 mt-3">
+            <button className="text-white ff_roboto text-uppercase  fw-normal fs_sm latest_btn mt-lg-5 mt-3">
               Latest episode
             </button>
           </Col>

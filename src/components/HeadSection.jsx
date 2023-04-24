@@ -27,11 +27,11 @@ function HeadSection() {
             power users, new consumers, and everyone in between.
           </p>
         </div>
-        <div className="text-center pt-md-5 pt-3">
-          <button className="ff_roboto fw-normal fs_sm building_btn text-white">
+        <div className="text-center d-flex flex-column align-items-center justify-content-center  flex-sm-row pt-md-5 pt-3">
+          <button className="ff_roboto fw-normal text-uppercase  fs_sm building_btn text-white">
             Start building
           </button>
-          <button className="ff_roboto fw-normal fs_sm read_btn text-white ms-3">
+          <button className="ff_roboto fw-normal text-uppercase mt-3 mt-sm-0 fs_sm read_btn text-white ms-sm-3">
             Read docs
           </button>
         </div>
